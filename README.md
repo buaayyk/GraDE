@@ -76,3 +76,8 @@ year={2026},
 url={https://openreview.net/forum?id=xDozosGMuJ}
 }
 ```
+
+## Acknowledgement
+
+Part of our code is borrowed from [DisCo](https://github.com/pricexu/DisCo), [DeFoG](https://github.com/manuelmlmadeira/DeFoG.git) and [DiGress](github.com/cvignac/DiGress).
+We thank the authors for releasing their code and models.
