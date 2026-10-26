@@ -23,7 +23,7 @@ pip install overrides scipy scikit-learn python-igraph matplotlib graphviz pynau
 
 ## Data Preparation
 
-Download the datasets from **[DATA_DOWNLOAD_LINK]** and place them under `./data/`, preserving the following directory names:
+Download the datasets from [Datasets](https://zenodo.org/records/23655081) and place them under `./data/`, preserving the following directory names:
 
 ```text
 data/
@@ -79,5 +79,5 @@ url={https://openreview.net/forum?id=xDozosGMuJ}
 
 ## Acknowledgement
 
-Part of our code is borrowed from [DisCo](https://github.com/pricexu/DisCo), [DeFoG](https://github.com/manuelmlmadeira/DeFoG.git) and [DiGress](github.com/cvignac/DiGress).
+Part of our code is borrowed from [DisCo](https://github.com/pricexu/DisCo), [DeFoG](https://github.com/manuelmlmadeira/DeFoG.git), [DiGress](github.com/cvignac/DiGress) and [DiNAS](https://github.com/rohanasthana/DiNAS).
 We thank the authors for releasing their code and models.
