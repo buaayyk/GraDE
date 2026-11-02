@@ -70,7 +70,7 @@ bash script/Beam_Search/run.sh
 @inproceedings{
 anonymous2026grade,
 title={Gra{DE}: A Graph Diffusion Estimator for Frequent Subgraph Discovery in Neural Architectures},
-author={Anonymous},
+author={Yikang Yang and Zhengxin Yang and Minghao Luo and Luzhou Peng and Hongxiao Li and Wanling Gao and Lei Wang and Jianfeng Zhan },
 booktitle={The Fortieth Annual Conference on Neural Information Processing Systems},
 year={2026},
 url={https://openreview.net/forum?id=xDozosGMuJ}
